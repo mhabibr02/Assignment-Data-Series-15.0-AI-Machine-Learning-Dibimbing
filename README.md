@@ -24,4 +24,4 @@ The machine learning model effectively predicts student scores based on the hour
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email : azizhabibrahim@gmail.com and LinkedIn : https://www.linkedin.com/in/mhabibr02/
 
-#Python #DatasetStudentScore #Kaggle #Linear Regression #Decision Tree Regressor #Random Forest Regressor
+#Python #DatasetStudentScore #Kaggle #LinearRegression #DecisionTreeRegressor #RandomForestRegressor
