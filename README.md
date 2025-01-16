@@ -1,6 +1,7 @@
 # Assignment Data Series 15.0 AI Machine Learning Dibimbing
 ## Evaluasi Model Machine Learning Menggunakan Dataset Student Score
 Source Dataset from Kaggle : https://www.kaggle.com/datasets/markmedhat/student-scores
+Source Code from Colab : https://colab.research.google.com/drive/1MjECVAWzWcOssSx9ZuGCMu4r585btyou?usp=sharing
 
 Description
 
