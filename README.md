@@ -10,7 +10,7 @@ Source Code from Colab : https://colab.research.google.com/drive/1MjECVAWzWcOssS
 
 Description
 
-### Objective :
+### Objective
 Build and evaluate a machine learning model capable of predicting student scores based on input features such as study hours. Demonstrate proficiency in using Python-based tools and libraries for data analysis and model training in Google Colab.
 
 ### Goals
