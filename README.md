@@ -29,6 +29,7 @@ Build and evaluate a machine learning model capable of predicting student scores
 The machine learning model effectively predicts student scores based on the hours of study. The chosen linear regression algorithm performed adequately, as indicated by evaluation metrics and visualization. This project highlights the importance of data preprocessing, splitting data into training and testing sets, and evaluating models using appropriate metrics. Further improvements could include exploring additional features or using advanced algorithms to enhance predictive accuracy.
 
 ### Remark
-If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email : azizhabibrahim@gmail.com and LinkedIn : https://www.linkedin.com/in/mhabibr02/
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](mailto:azizhabibrahim@gmail.com) and 
+[LinkedIn](https://www.linkedin.com/in/mhabibr02/)
 
 #Python #DatasetStudentScore #Kaggle #LinearRegression #DecisionTreeRegressor #RandomForestRegressor
